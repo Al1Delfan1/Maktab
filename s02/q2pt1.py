@@ -1,5 +1,0 @@
-fahrenheit = float(input("Enter the temperature in Fahrenheit: "))
-
-celsius = (fahrenheit - 32) * 5/9
-
-print("it't " + str(celsius) + " in celsius")
